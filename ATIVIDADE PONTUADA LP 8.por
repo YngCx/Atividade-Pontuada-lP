@@ -13,7 +13,7 @@ programa {
       escreva ("\t\t\t\n(4) COR VERMELHA \t\t\t R$ 40,00")
 
       escreva( "\n\n==============")
-      escreva ("\nDIGITE A OPÇAO DE COR QUE VOCE DESEJA: ")
+      escreva ("\nDIGITE A OPÃ‡AO DE COR QUE VOCE DESEJA: ")
       leia(operacao)
 
 
@@ -36,7 +36,7 @@ programa {
         pare
 
         caso contrario: 
-        escreva("NENHUMA OPÇÃO")
+        escreva("NENHUMA OPÃ‡ÃƒO")
 
 
 
