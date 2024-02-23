@@ -35,7 +35,7 @@ programa {
       valorpago = quantidadelitros * (valorgasolina - valorgasolina* descontogasolinaacima25)
     }
 
-      escreva("\n O VALOR TOTAL A SE PAGAR É: ", valorpago)
+      escreva("\n O VALOR TOTAL A SE PAGAR Ã‰: ", valorpago)
 
 
 
